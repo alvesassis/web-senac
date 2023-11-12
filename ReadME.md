@@ -1,4 +1,5 @@
 ## SOFTWARE *Easylife* ##
+---
 A aplicação ***Easylife*** foi desenvolvida para atender uma ampla gama de usuários. Os serviços ofertados são relativos ao bem-estar e saúde. As funcionalidades previstas abrangem um acompanhamento personalizado, permitindo uma experiência única, fascinante e divertida. Inicialmente, os serviços ofertados compreendem apenas o cadastro e verificação do ***Body Mass Corporal*** (IMC). Ao passo que novas funcionalidades foram sendo adicionadas, os usuários serão notificados para que possam desfrutar do serviços.
 
 ### AUTORES ###
@@ -14,10 +15,10 @@ A aplicação ***Easylife*** foi desenvolvida para atender uma ampla gama de usu
 ### INSTALAÇÃO ###
 ---
 
-Os arquivos para execução do software são encontrados em dois repositórios  <https://www.ead.senac.br/> e  <https://www.ead.senac.br/>.
-O sotfware não precisa de servidor, pois o ambiente de teste opera apenas localmente (***localhost***). Ele utiliza o banco de dados relacional PostgreSQL e a linguagem java no backend. É recomendado instalação da ferramenta pgAdmin para gerenciamento do banco de dados. O frontend é implementado com a plataforma  ***nodejs*** e react. O editor usada para pagrama foi o Visual Sdudio Code (***Vscode***).
+Os arquivos para execução do software são encontrados nos seguintes repositórios <https://www.ead.senac.br/> e  <https://www.ead.senac.br/>.
+O sotfware não precisa de servidor, pois o ambiente ele opera apenas localmente (***localhost***). Ele utiliza o banco de dados relacional PostgreSQL e a linguagem java no backend. É recomendado instalação da ferramenta ***pgAdmin*** para gerenciamento do banco de dados. O frontend é implementado com a plataforma  ***nodejs*** e react. O editor usada para pagrama foi o Visual Sdudio Code (***Vscode***).
 
----
+
 
 ### FUNCIONAMENTO ###
 ---
