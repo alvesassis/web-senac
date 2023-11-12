@@ -1,11 +1,12 @@
-# Codes for acquire and process data from FLUKE 1502, NI USB 6341
+## Aplicação WEB *Easylife*
 
-The codes were create to permit communication between PC-desktop,acquisition board and measurement devices. The Anaconda software was used for programming of the interfaces and processing of data.
+A aplicação ***Easylife*** foi desenvolvida para atender uma ampla gama de usuários. Os serviços ofertados são relativos ao bem-estar e saúde. As funcionalidades previstas abrangem um acompanhamento personalizado, permitindo uma experiência única, fascinante e divertida. Inicialmente, os serviços ofertados compreendem apenas o cadastro e verificação do ***Body Mass Corporal*** (IMC). Ao passo que novas funcionalidades foram sendo adicionadas, os usuários serão notificados para que possam desfrutar do serviços.
 
 
 
 `For while(){}`
 
-[https://www.ufrn.br/]
 
-dfgdfgd
+https://www.ufrn.br/
+
+### Como utilizar a aplicação 
