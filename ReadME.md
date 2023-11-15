@@ -19,8 +19,8 @@ A aplicação ***Easylife*** foi desenvolvida para atender uma ampla gama de usu
 Os arquivos para execução do software são encontrados nos seguintes repositórios <https://www.ead.senac.br/> e  <https://www.ead.senac.br/>.
 O sotfware não precisa de servidor, pois o ambiente ele opera apenas localmente (***localhost***). Ele utiliza o banco de dados relacional PostgreSQL e a linguagem java no backend. É recomendado instalação da ferramenta ***pgAdmin*** para gerenciamento do banco de dados. O frontend é implementado com a plataforma  ***nodejs*** e react. O editor usada para pagrama foi o Visual Sdudio Code (***Vscode***).
 
-#### Dependências ####
-
+#### Banco de dados ####
+Aplicação possui XX bancos de dados com as seguintes credênciais:
 
 
 ### FUNCIONAMENTO ###
